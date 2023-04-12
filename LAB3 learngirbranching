@@ -1,0 +1,23 @@
+LAB3
+
+
+-git commit
+-git branch myBranch
+-git checkout <nazwa-gałęzi>
+-git switch
+-git merge
+-git rebase
+-git log
+-git reset
+-git revert
+-git cherry-pick
+-git rebase -i
+-git commit -amend
+-git describe
+-git bisect
+-git describe <ref>
+-git clone
+-git fetch 
+-git pull
+-git push
+-git fetch
